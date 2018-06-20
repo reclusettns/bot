@@ -1,1 +1,1 @@
-bot: newrelic-admin run-program python scr.py
+bot: python scr.py
