@@ -1,1 +1,1 @@
-web: python scr.py
+web: python scr.py $PORT
