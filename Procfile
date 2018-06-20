@@ -1,1 +1,1 @@
-web: python scr.py $PORT
+bot: newrelic-admin run-program python scr.py
